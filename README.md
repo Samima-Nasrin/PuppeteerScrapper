@@ -37,29 +37,28 @@ node scraper.js
 ## Sample Output
 
 ```json
-Scraped Quotes:
 [
   {
-    text: '“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”',
-    author: 'Albert Einstein',
-    tags: [ 'change', 'deep-thoughts', 'thinking', 'world' ]
+    "text": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+    "author": "Albert Einstein",
+    "tags": ["change", "deep-thoughts", "thinking", "world"]
   },
   {
-    text: '“It is our choices, Harry, that show what we truly are, far more than our abilities.”',
-    author: 'J.K. Rowling',
-    tags: [ 'abilities', 'choices' ]
+    "text": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+    "author": "J.K. Rowling",
+    "tags": ["abilities", "choices"]
   },
   {
-    text: '“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”',
-    author: 'Albert Einstein',
-    tags: [ 'inspirational', 'life', 'live', 'miracle', 'miracles' ]
+    "text": "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+    "author": "Albert Einstein",
+    "tags": ["inspirational", "life", "live", "miracle", "miracles"]
   },
   {
-    text: '“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”',
-    author: 'Jane Austen',
-    tags: [ 'aliteracy', 'books', 'classic', 'humor' ]
+    "text": "The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.",
+    "author": "Jane Austen",
+    "tags": ["aliteracy", "books", "classic", "humor"]
   }
 ]
-```
+
 
 
